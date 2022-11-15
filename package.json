@@ -101,7 +101,7 @@
     "express": "~4.17.1",
     "express-basic-auth": "~1.2.0",
     "express-prom-bundle": "~6.3.6",
-    "minimist": "~1.2.5",
+    "minimist": "~1.2.6",
     "morgan": "~1.10.0",
     "node.extend": "~2.0.2",
     "ospoint": "~0.2.1",
